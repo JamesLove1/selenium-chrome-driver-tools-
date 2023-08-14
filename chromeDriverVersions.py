@@ -1,5 +1,5 @@
 # %%&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-# Status: Not Working 
+# Status: Working 
 # Manual way
 
 from selenium import webdriver
