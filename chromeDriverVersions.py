@@ -71,7 +71,7 @@ input("Press enter to leave: \n>>")
 
 driver.close()
 # %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Status: Works
+# Status: Not Working
 # pipenv install get-chrome-driver
 # https://pypi.org/project/get-chrome-driver/
 # Notes: Buggy opens up mutiple uncalled for windows 
